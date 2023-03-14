@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\USDCArbHunter.exe.config
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\USDCArbHunter.exe
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\USDCArbHunter.pdb
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\Leaf.xNet.dll
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\Leaf.xNet.xml
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\obj\Debug\USDCArbHunter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\obj\Debug\USDCArbHunter.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\obj\Debug\USDCArbHunter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\obj\Debug\USDCArbHunter.csproj.CopyComplete
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\obj\Debug\USDCArbHunter.exe
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\obj\Debug\USDCArbHunter.pdb
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\USDCArbHunter\USDCArbHunter\bin\Debug\Newtonsoft.Json.xml
